@@ -15,11 +15,17 @@ PS：In this project, the ‘torchcam-author’ folder is not used, we use the c
 #The output information of the ‘cam_3dcube.py’ file is as follows:
 
 E:\anaconda3.8\envs\pytorch1.8_cuda11.1_cudnn8.0.5_py37_ljq_naslung\python.exe D:/LiuJiaqi/cam_3d_cube_project/cam_3dcube.py
+
 pix_mean, pix_std: 199.32785034179688, 15.390596152988984
+
 self.test_data.shape, len(self.test_labels):
+
 (1, 32, 32, 32) 1
+
 Traceback (most recent call last):
+
 activation_map_numpy:[[[nan]]]
+
 activation_map_numpy.shape:(1, 1, 1)
 
 
