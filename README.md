@@ -51,10 +51,10 @@ cuDNN version: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.1\bin\cudn
 
 #The version of each package:
 
-torch 1.8.0
-numpy 1.20.1+mkl
-pandas 1.2.4
-torchcam 0.3.1
-torchvision 0.9.0
-Pillow  8.4.0
-pip 21.0.1
+torch:1.8.0
+numpy:1.20.1+mkl
+pandas:1.2.4
+torchcam:0.3.1
+torchvision:0.9.0
+Pillow:8.4.0
+pip:21.0.1
